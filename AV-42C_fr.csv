@@ -1,0 +1,255 @@
+Key,Description,en,fr
+throttleInteractable_859490,VR Interactable,Throttle,Gaz
+autoAdjustJoyInteractable_856740,VR Interactable,Auto Adjust Joystick,Ajustement Automatique Joystick
+joyParent_856842,VR Interactable,Joystick,Joystick
+dButtonBase_857788,VR Interactable,Adjust Left,Ajuster Gauche
+dButtonBase (1)_856914,VR Interactable,Adjust Right,Ajuster Droite
+dButtonBase (2)_858724,VR Interactable,Adjust Forward,Ajuster Avant
+dButtonBase (3)_856684,VR Interactable,Adjust Back,Ajuster Arriere
+dButtonBase (4)_860052,VR Interactable,Adjust Up,Ajuster Haut
+dButtonBase (5)_857762,VR Interactable,Adjust Down,Ajuster Bas
+ToggleAdjustJoyInteractable_855938,VR Interactable,Toggle Auto Adjust,Activer Ajustement Automatique
+CockpitLightsInteractable_857330,VR Interactable,Cockpit Lights,Lumieres Cockpit
+BayLightsInteractable_855990,VR Interactable,Bay Lights,Lumieres Bay
+LabelBrightnessKnob_859032,VR Interactable,Instrument Brightness,Luminosite Instruments
+LabelGlowPowerInteractable_859822,VR Interactable,Instrument Lights,Lumieres Instruments
+NavLightSwitchInteractable_857704,VR Interactable,Navigation Lights,Lumieres Navigation
+StrobeSwitchInteractable_857192,VR Interactable,Strobe Lights,Lumieres Stroboscopiques
+LandingLightSwitchInteractable_860068,VR Interactable,Landing Lights,Lumieres d'Atterrissage
+ejectInteractable_858246,VR Interactable,Eject,Ejecter
+raiseSeatInter_857284,VR Interactable,Raise Seat,Monter Siege
+lowerSeatInter_856168,VR Interactable,Lower Seat,Abaisser Siege
+ButtonText_855888,UI Text,"Recenter
+seat","Recentrer 
+Siege"
+ButtonText_855804,UI Text,Restart,Recommencer
+ButtonText_858140,UI Text,"exit
+mission","Quitter 
+Mission"
+ButtonText_859092,UI Text,"Quick
+save","Sauvegarde 
+Rapide"
+ButtonText_857740,UI Text,Load,Charger
+ButtonText_856918,UI Text,Save,Sauvegarder
+helmVisorInteractable_857720,VR Interactable,Visor,Viseur
+helmNVGInteractable_856016,VR Interactable,NVG,NVG
+PendingText_857928,UI Text,in progress...,En cours...
+CompleteText_856172,UI Text,COMPLETE,COMPLETE
+MissionText_855910,UI Text,"MISSION
+","MISSION
+"
+FailedText_855830,UI Text,FAILED,ECHEC
+Handle_112840,VR Interactable,Scroll,Defiler
+Text_857226,UI Text,Restart Mission,Recommencer Mission
+ReturnButton_856630,VR Interactable,Return to Main,Retourner au Principal
+Text_859052,UI Text,Finish Mission,Terminer Mission
+ToggleLogButton_860176,VR Interactable,Toggle Flight Log,Activer Journal de Vol
+Text_859844,UI Text,Show/Hide Flight Log,Afficher/Cacher Journal de Vol
+ContinueFlightButton_858160,VR Interactable,Continue Flight,Continuer Vol
+Text_857174,UI Text,Flight log,Journal de Vol
+UpIcon_857052,VR Interactable,Scroll Up,Defiler Haut
+DnIcon_859440,VR Interactable,Scroll Down,Defiler Bas
+BottomIcon_857190,VR Interactable,To Bottom,Vers le Bas
+SaveToDiskText_857640,VR Interactable,Save Flight Log,Sauvegarder Journal de Vol
+completionTimeLabel_-10687514,UI Text,Completion Time:,Temps de Completion :
+releaseLabel_859238,UI Text,RELEASE,LIBERATION
+AirspeedLabel_857044,UI Text,SPEED,VITESSE
+Label_858112,UI Text,TILT,INCLINAISON
+Label_856174,UI Text,HULL,FUSELAGE
+VertVelLabel_857254,UI Text,VERT,VERT
+ASLText_858014,UI Text,ASL,ASL
+RDRAltText_858872,UI Text,RDR,RADAR
+Text_857542,UI Text,[ COLLISION      WARNING ],[ AVERTISSEMENT      COLLISION ]
+Text_859692,UI Text,[ STALL          WARNING ],[ AVERTISSEMENT          DEDECROCHAGE ]
+Label_857754,UI Text,HDG,HDG
+HudBrakeLock_858050,UI Text,[ BRAKE LOCK],[ VERROUILLAGE FREIN ]
+Label_164444,HUD unit label (g-force),G,G
+Label_168976,HUD unit label (mach),M,M
+Label_857238,UI Text,"HVR
+ALT","HVR
+ALT"
+Label_857834,UI Text,BRAKE,FREIN
+Text_859476,UI Text,-[ CHECK GEAR ]-,-[ VERIFIER TRAIN ]-
+Text_703132,UI Text,PULL UP!,MONTER !
+visorButtonInteractable_855374,VR Interactable,Toggle Visor,Activer Viseur
+nvgButtonInteractable_859612,VR Interactable,Toggle NVG,Activer NVG
+HUDTintKnob_858060,VR Interactable,HUD Tint,Teinte HUD
+HUDSpeedUnitsButton_858304,VR Interactable,Airspeed Units,Unites Vitesse
+SpeedUnitsLabel_858142,UI Text,TODO,TODO
+ClrWptButton_859478,VR Interactable,Clear Waypoint,Effacer Waypoint
+MasterCautionInteractable_855702,VR Interactable,Clear Cautions,Effacer Avertissements
+AltitudeModeInteractable_859776,VR Interactable,Toggle Altitude Mode,Activer Mode Altitude
+headingAPButton_858104,VR Interactable,Heading Hold,Maintien Cap
+altitudeAPButton_855514,VR Interactable,Altitude Hold,Maintien Altitude
+hoverAPButton_858476,VR Interactable,Hover Mode,Mode Stationnaire
+offAPButton_857466,VR Interactable,All AP Off,Tous AP Off
+navAPButton_855348,VR Interactable,Navigation Mode,Mode Navigation
+hudPowerInteractable_855558,VR Interactable,HUD Power,Puissance HUD
+hmcsPowerInteractable_856320,VR Interactable,HMCS Power,Puissance HMCS
+HUDBrightKnob_855728,VR Interactable,HUD Brightness,Luminosite HUD
+HUDDeclutterKnob_858778,VR Interactable,HUD Declutter,Desencombrement HUD
+leftEngineSwitchInteractable_858214,VR Interactable,Left Engine,Moteur Gauche
+coverSwitchInteractable_leftEngine_858864,VR Interactable,Switch Cover,Couverture Interrupteur
+rightEngineSwitchInteractable_857464,VR Interactable,Right Engine,Moteur Droit
+apuSwitchInteractable_855502,VR Interactable,Auxilliary Power,Alimentation Auxiliaire
+Label (1)_857692,UI Text,AV-42,AV-42
+GearInteractable_856386,VR Interactable,Landing Gear,Train d'Atterrissage
+FlapsInteractable_855734,VR Interactable,Flaps,Volets
+HookInteractable_858430,VR Interactable,Arrestor Hook,Crochet d'Atterrissage
+CatHookInteractable_859182,VR Interactable,Launch Bar,Barre de Lancement
+masterArmSwitchInteractable_859944,VR Interactable,Master Arm Switch,Interrupteur Armement Principal
+MasterJettisonButtonInteractable_856040,VR Interactable,Jettison,Ejection
+JettisonAllInteractable_860130,VR Interactable,JettisonAll,Ejecter Tout
+JettisonEmptyInteractable_860042,VR Interactable,Jettison Empty,Ejecter Vide
+ClearJettisonInteractable_856154,VR Interactable,Clear Jettison Marks,Effacer Marques d'Ejection
+Label (1)_858442,UI Text,QUICK START,DEMARRAGE RAPIDE
+QuickStartInteractable_857660,VR Interactable,Quickstart Engines,Demarrage Rapide Moteurs
+Label (1)_860014,UI Text,QUICK FLY,VOL RAPIDE
+QuickFlyButton_857886,VR Interactable,QuickFly,QuickFly
+Text_856940,UI Text,"VR MFCD
+1.0
+","VR MFCD
+1.0
+"
+SaveToDiskText_857186,UI Text,Save to Disk,Sauvegarder sur disque
+Title_856292,UI Text,"Spectator
+Camera","Camera 
+Spectateur"
+AutoFOVText_857446,UI Text,AutoFOV,AutoFOV
+Title_859956,UI Text,HARDPOINTS,POINTS D'ACCROCHE
+JettisonText_859418,UI Text,ARMED,ARMED
+JettisonText_857292,UI Text,JETTISON,EJECTION
+BackText_856938,UI Text,BACK,RETOUR
+Title_859674,UI Text,ARAD,ARAD
+offTxt_858396,UI Text,RWR OFF,RWR OFF
+hudModeText_855534,UI Text,DECL,DECL
+Text_856460,UI Text,GAME MENU,MENU JEU
+Text_856942,UI Text,"Sit comfortably
+and press
+[menu]
+to recenter","Asseyez-vous confortablement 
+et appuyez sur 
+[menu] 
+pour recentrer"
+saveText_858168,UI Text,SAVE,SAUVEGARDER
+availableLabel_856046,UI Text,"SAVES
+AVAILABLE:","SAUVES 
+DISPONIBLES"
+NoQsText_856498,UI Text,"QUICKSAVE
+NOT AVAILABLE","QUICKSAVE 
+NON DISPONIBLE"
+lastSaveLabel_859496,UI Text,Last Save:,Derniere Sauvegarde :
+loadText_858842,UI Text,LOAD,CHARGER
+text_855302,UI Text,SAVED,SAUVEGARDE
+Quicksave Title_123840,UI Text,Quicksave,Quicksave
+TgtsTitle_857670,UI Text,GPS TARGETS,CIBLES GPS
+GroupsTitle_860122,UI Text,GROUPS,GROUPES
+DelTgt_857782,UI Text,"DELETE
+TARGET",SUPPRIMER CIBLE
+DelGrp_856478,UI Text,"DELETE
+GROUP",SUPPRIMER GROUPE
+NewGrp_859040,UI Text,"NEW
+GROUP",NOUVEAU GROUPE
+pathLabel_857952,UI Text,PATH,CHEMIN
+NoSignalText_859948,UI Text,NO SIGNAL,AUCUN SIGNAL
+Text_857566,UI Text,AREA,ZONE
+Text_856980,UI Text,POINT,POINT
+Text_856590,UI Text,IFF:FRIEND,IFF:AMI
+Text_859178,UI Text,IFF:FOE,IFF:ENNEMI
+HeadModeText_855284,UI Text,"USE HELMET VISOR/HMCS
+
+AUGMENTED VIEW ENABLED","UTILISER VISEUR CASQUE/HMCS
+
+VUE AUGMENTEE ACTIVE"
+gimbalLimit_858032,UI Text,GIMBAL LIMIT,LIMITE GIMBALE
+hmdViewStatus_856300,UI Text,HMD,HMD
+titleText_456206,UI Text,FLARES,LEURRES
+titleText_455052,UI Text,CHAFF,PAILLETTES
+eqNameText_456958,UI Text,COUNTERMEASURE SYSTEM,SYSTEME CONTREMESURE
+ReleaseRateTitle_456222,UI Text,RELEASE RATE,TAUX LIBERATION
+releaseModeTxt_455244,UI Text,RELEASE MODE,MODE LIBERATION
+eqNameText_930458,UI Text,VEHICLE OPTIONS,OPTIONS VEHICULE
+AltModeLabel_953220,UI Text,UNITS,UNITES
+unitOptsText_702428,UI Text,FUEL,CARBURANT
+unitOptsText_702142,UI Text,ALT WARN,ALT WARN
+JoyModeText_952514,UI Text,JOY SENS,JOY SENS
+eqNameText_701656,UI Text,UNIT OPTIONS,OPTIONS UNITES
+Text_954730,UI Text,"Sit comfortably
+and press menu
+(top button)
+to recenter","Asseyez-vous confortablement 
+et appuyez sur le menu 
+(bouton du haut) 
+pour recentrer"
+AltModeLabel_701584,UI Text,Alt Units,Alt Units
+DistModeLabel_954954,UI Text,Dist Units,Dist Units
+SpeedModeLabel_955738,UI Text,Speed Units,Vitess Units
+eqNameText_702892,UI Text,FUEL CONFIG,CONFIG CARBURANT
+internalFuelText_-432922,Internal Fuel,INTERNAL,INTERNE
+externalFuelText_701646,External fuel,EXTERNAL,EXTERNE
+BingoAdjustTitle_-439040,UI Text,BINGO LEVEL,NIVEAU BINGO
+eqNameText_701974,UI Text,ALTITUDE WARNINGS,ALTITUDE WARNINGS
+title_702284,UI Text,MIN ALTITUDE,ALTITUDE MIN
+title_701018,UI Text,MAX ALTITUDE,ALTITUDE MAX
+modeTitle_702386,UI Text,MODE,MODE
+MFD1PowerInteractable_856422,VR Interactable,MFD Power (Left),Puissance MFD (Gauche)
+MFDBrightnessKnob_858866,VR Interactable,MFD Brightness,Luminosite MFD
+MFD2PowerInteractable_856476,VR Interactable,MFD Power (Center),Puissance MFD (Centre)
+MFD3PowerInteractable_857594,VR Interactable,MFD Power (Right),Puissance MFD (Droit)
+CrsKnobInteractable_858264,VR Interactable,Course Set,Reglage de Cap
+Text_859426,UI Text,CRS,CRS
+APHeadingKnobInteractable_859312,VR Interactable,AP Heading Set,Reglage AP Cap
+RWRText_856538,UI Text,"R
+W
+R","R
+W
+R"
+Text_859504,UI Text,VRMMFD v1.6,VRMMFD v1.6
+fuelDrainLabel_859218,UI Text,FUEL DRAIN,VIDANGE CARBURANT
+estTimeLabel_856372,UI Text,EST TIME,EST TEMP
+estDistLabel_856044,UI Text,EST DISTANCE,EST DISTANCE
+twrLabel_858560,UI Text,MAX TWR,MAX TWR
+RWRButton_857352,VR Interactable,RWR,RWR
+powButtonMMFDLeft_859524,VR Interactable,Power (MMFD Left),Puissance (MMFD Gauche)
+FuelText_858474,UI Text,"F
+U
+E
+L","F
+U
+E
+L"
+InfoLabel_857034,UI Text,"I
+N
+F
+O","I
+N
+F
+O"
+powButtonMMFDRight_855584,VR Interactable,Power (MMFD Right),Puissance (MMFD Droit)
+infoButton_859450,VR Interactable,Fuel Info,Infos Carburant
+fuelButton_855474,VR Interactable,Fuel,Carburant
+mainBattSwitchInteractable_858600,VR Interactable,Main Battery,Batterie Principale
+fuelDumpSwitchInteractable_197570,VR Interactable,Fuel Dump Switch,Interrupteur Vidange Carburant
+RampInteractable_858370,VR Interactable,Side Doors,Portes Laterales
+BrakeLockInteractable_859740,VR Interactable,Brake Locks,Verrouillage Freins
+MicPowerInteractable_855850,VR Interactable,Microphone,Microphone
+CommsVolumeKnob_858450,VR Interactable,Comm Radio Volume,Volume Radio Communication
+Text_98822,UI Text,"GAME WINDOW
+NOT IN FOCUS","FENETRE JEU 
+NON EN FOCUS"
+ChaffInteractable_859410,VR Interactable,Toggle Chaff,Activer Paillettes
+FlareInteractable_856806,VR Interactable,Toggle Flares,Activer Leurres
+AssistMasterInteractable_860160,VR Interactable,Toggle Flight Assist,Activer Assist. Vol
+PitchSASInteractable_855582,VR Interactable,Toggle Pitch Assist,Activer Assist. Tangage
+YawSASInteractable_859920,VR Interactable,Toggle Yaw Assist,Activer Assist. Lacet
+RollSASInteractable_859788,VR Interactable,Toggle Roll Assist,Activer Assist. Roulis
+PitchAutoTrimInteractable_859614,VR Interactable,Toggle Pitch Trim,Activer Trim Tangage
+GLimitSwitchInteractable_860152,VR Interactable,Toggle G-Limiter,Activer Limiteur G
+FuelPort_860018,VR Interactable,Fuel Port,Port de Carburant
+RCSModeInteractable_858010,VR Interactable,RCS Mode,Mode RCS
+RadioVolumeKnob_859248,VR Interactable,Radio Volume,Volume Radio
+PrevButton_857278,VR Interactable,Prev Song,Chanson Prec
+NextButton_858006,VR Interactable,Next Song,Chanson Suiv
+radioPlayPauseInteractable_858616,VR Interactable,Play/Pause,Lecture/Pause
+RWRModeInteractable_856254,VR Interactable,RWR Mode,Mode RWR
+CamcorderObj_105218,VR Interactable,Move Camera,Deplacer Camera
