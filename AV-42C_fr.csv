@@ -54,7 +54,7 @@ SaveToDiskText_857640,VR Interactable,Save Flight Log,Sauvegarder Journal de Vol
 completionTimeLabel_-10687514,UI Text,Completion Time:,Temps de Completion :
 releaseLabel_859238,UI Text,RELEASE,LIBERATION
 AirspeedLabel_857044,UI Text,SPEED,VITESSE
-Label_858112,UI Text,TILT,INCLINAISON
+Label_858112,UI Text,TILT,TILT
 Label_856174,UI Text,HULL,FUSELAGE
 VertVelLabel_857254,UI Text,VERT,VERT
 ASLText_858014,UI Text,ASL,ASL
