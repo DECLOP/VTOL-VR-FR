@@ -3,7 +3,7 @@ MissionText_776118,UI Text,"Align your seat with the virtual chair.
 
 Equip helmet when ready.",Alignez votre siege avec la chaise virtuelle.
 Ready_776022,UI Text,READY,PRET
-LoadingText_775290,UI Text,LOADING,CHARGEMENT EN COURS
+LoadingText_775290,UI Text,LOADING,CHARGEMENT
 loading_helmet,VR Interactable,Equip when ready.,Equipez-vous lorsque vous etes prets.
 recenterInteractable_-28298290,VR Interactable,Re-center,Recentrer
 Text_-28298296,UI Text,Re-center Seat,Recentrer le Siege
